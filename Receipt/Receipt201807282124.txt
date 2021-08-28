@@ -1,0 +1,7 @@
+  Transaction: T00024      Action: Sold out      Date&Time: 2018/05/01 22:16
+  Staff Key: P00002        Staff Name: Terry Wong     Grand Total:     13935
+
+    # PrdctKey  Name               Brand              SoldPrice Qnty   Total
+  000 M00222    -LOST-             -LOST-                  2220    2    4440
+  001 M00089    -LOST-             -LOST-                   890    3    2670
+  002 M02289    -LOST-             -LOST-                   975    7    6825

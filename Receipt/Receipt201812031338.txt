@@ -1,0 +1,25 @@
+  Transaction: T00025      Action: Sold out      Date&Time: 2018/06/01 22:16
+  Staff Key: P00001        Staff Name: Given Family   Grand Total:    375850
+
+    # PrdctKey  Name               Brand              SoldPrice Qnty   Total
+  000 M00021    SAS 240G SSD       Kimgston                  10   17     170
+  001 M00022    EZEX 1T            WD                       250    1     250
+  002 M00023    -LOST-             -LOST-                  1300    1    1300
+  003 M00024    SAS 480G SSD       Kimgston                 340    1     340
+  004 M00025    P3 2200G           AMO                      125    6     750
+  005 M00026    TR 2950X           AMO                     2520  130  327600
+  006 M00027    -LOST-             -LOST-                   270    1     270
+  007 M00028    Care j7 8700k      Indel                     12    1      12
+  008 M00029    P5 2600            AMO                      220    3     660
+  009 M00030    P7 2700X           AMO                       13    2      26
+  010 M00003    -LOST-             -LOST-                   222    1     222
+  011 M00004    DDR4 2400 8G       Kimgston                 200    1     200
+  012 M00005    Care j3 8300       Indel                     75    1      75
+  013 M00006    DDR4 2666 8G       Kimgston                1095    8    8760
+  014 M00008    DDR4 3000 8G       G.Skull                  450    2     900
+  015 M00009    DDR4 3200 8G       CORZAIR                  230    1     230
+  016 M00010    PTX 2070 8G        Nvibia                    43    2      86
+  017 M00011    -LOST-             -LOST-                   134   56    7504
+  018 M00012    Care j5 8500       Indel                   3400    5   17000
+  019 M00013    JTX 1080 8G        Nvibia                   890    3    2670
+  020 M00014    -LOST-             -LOST-                   975    7    6825

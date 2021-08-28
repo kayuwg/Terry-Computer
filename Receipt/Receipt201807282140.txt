@@ -1,0 +1,5 @@
+  Transaction: T00028      Action: Sold out      Date&Time: 2018/07/28 21:40
+  Staff Key: P00001        Staff Name: Given Family   Grand Total:        90
+
+    # PrdctKey  Name               Brand              SoldPrice Qnty   Total
+  000 M00026    dgww               343                       45    2      90

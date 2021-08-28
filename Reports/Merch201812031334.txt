@@ -1,0 +1,2 @@
+  Key       Category       Product Name   Brand Name     Price   Cost   Remain
+

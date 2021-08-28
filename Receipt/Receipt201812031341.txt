@@ -1,0 +1,8 @@
+  Transaction: T00206      Action: Sold out      Date&Time: 2018/12/03 13:41
+  Staff Key: P00002        Staff Name: Terry Wong     Grand Total:      4584
+
+    # PrdctKey  Name               Brand              SoldPrice Qnty   Total
+  000 M00021    SAS 240G SSD       Kimgston                 279    2     558
+  001 M00024    SAS 480G SSD       Kimgston                 475    2     950
+  002 M00020    DDR4 2666 16G      G.Skull                  999    2    1998
+  003 M00009    DDR4 3200 8G       CORZAIR                  539    2    1078

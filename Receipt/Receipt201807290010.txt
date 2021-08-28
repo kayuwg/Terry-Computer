@@ -1,0 +1,7 @@
+  Transaction: T00034      Action: Sold out      Date&Time: 2018/07/29 00:09
+  Staff Key: P00002        Staff Name: Terry Wong     Grand Total:      3707
+
+    # PrdctKey  Name               Brand              SoldPrice Qnty   Total
+  000 M00030    Test-1             Test-3                   792    3    2376
+  001 M00023    44f4               2                          3    1       3
+  002 M00024    cvfs2              adf                      332    4    1328

@@ -1,0 +1,25 @@
+  Transaction: T00025      Action: Sold out      Date&Time: 2018/06/01 22:16
+  Staff Key: P00001        Staff Name: Given Family   Grand Total:    375850
+
+    # PrdctKey  Name               Brand              SoldPrice Qnty   Total
+  000 M00021    dfddf              2                         10   17     170
+  001 M00022    uccbf              Intel                    250    1     250
+  002 M00023    44f4               2                       1300    1    1300
+  003 M00024    cvfs2              adf                      340    1     340
+  004 M00025    fewf3              adsf                     125    6     750
+  005 M00026    dgww               343                     2520  130  327600
+  006 M00027    -LOST-             -LOST-                   270    1     270
+  007 M00028    QQQQQ              QQQQQ                     12    1      12
+  008 M00029    Test-1             Test-2                   220    3     660
+  009 M00030    Test-1             Test-3                    13    2      26
+  010 M00003    1                  Intel                    222    1     222
+  011 M00004    as2df              adsf                     200    1     200
+  012 M00005    1                  2                         75    1      75
+  013 M00006    sdcsf              adsf                    1095    8    8760
+  014 M00008    asdf               adsf                     450    2     900
+  015 M00009    1                  2                        230    1     230
+  016 M00010    ubbdf              adsf                      43    2      86
+  017 M00011    1                  Intel                    134   56    7504
+  018 M00012    df                 adsf                    3400    5   17000
+  019 M00013    1                  adsf                     890    3    2670
+  020 M00014    -LOST-             -LOST-                   975    7    6825

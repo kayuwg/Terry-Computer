@@ -1,0 +1,29 @@
+  Key       Category       Product Name   Brand Name     Price   Cost   Remain
+
+  M00003    CPU            1              2                 39    490       10
+  M00004    Display card   as2df          adsf             343    343      341
+  M00005    CPU            1              2                 38      4       52
+  M00006    Display card   sdcsf          adsf             343    343      343
+  M00008    Display card   asdf           adsf             343    353      943
+  M00009    Hard disk      1              2                  3    353        5
+  M00010    Hard disk      ubbdf          adsf             343   3333      343
+  M00011    CPU            1              2                  3    432        5
+  M00012    RAM            df             adsf             343    343      313
+  M00013    Display card   1              adsf             343    343      341
+  M00017    RAM            1              2                  3    498        5
+  M00018    Hard disk      asfwef         adsf             343    343      343
+  M00019    RAM            1              1                  1      1        1
+  M00020    RAM            erwq           4333            1234   4521       20
+  M00021    Hard disk      dfddf          2                  3    353        5
+  M00022    Hard disk      uccbf          adsf             343   3333      343
+  M00023    CPU            44f4           2                  3    432        4
+  M00024    RAM            cvfs2          adf              332    343      339
+  M00025    Display card   fewf3          adsf             112    343      343
+  M00026    Display card   dgww           343               45     85        3
+  M00028    CPU            QQQQQ          QQQQQ          32423 234234      233
+  M00029    RAM            Test-1         Test-2           794     22      612
+  M00030    CPU            Test-1         Test-3           792     12      610
+  M00031    Display card   RTX 2080Ti     Nvidia         19999   8999        6
+  M00032    RAM            sd             vsadfa           234    553       18
+  M00033    RAM            asdf           ssdfe            324   6345      324
+  M00034    Display card   i7 9700k       Intel           9999   7000      100

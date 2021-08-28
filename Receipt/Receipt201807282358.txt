@@ -1,0 +1,5 @@
+  Transaction: T00032      Action: Sold out      Date&Time: 2018/07/28 23:58
+  Staff Key: P00002        Staff Name: Terry Wong     Grand Total:      3430
+
+    # PrdctKey  Name               Brand              SoldPrice Qnty   Total
+  000 M00012    df                 adsf                     343   10    3430

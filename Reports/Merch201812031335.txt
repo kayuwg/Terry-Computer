@@ -1,0 +1,5 @@
+  Key       Category       Product Name   Brand Name     Price   Cost   Remain
+
+  M00019    RAM            DDR3 2133 8G   Kimgston         349    300      807
+  M00004    RAM            DDR4 2400 8G   Kimgston         435    350     1553
+  M00006    RAM            DDR4 2666 8G   Kimgston         455    360     1654

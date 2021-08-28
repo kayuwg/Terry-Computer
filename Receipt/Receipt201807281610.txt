@@ -1,0 +1,6 @@
+  Transaction: T00022      Action: Goods in      Date&Time: 2018/05/01 22:16
+  Staff Key: P00011        Staff Name: Not Found      Grand Total:      7110
+
+    # PrdctKey  Name               Brand              SoldPrice Qnty   Total
+  000 M00018    asfwef             adsf                    2220    2    4440
+  001 M00028    QQQQQ              QQQQQ                    890    3    2670
